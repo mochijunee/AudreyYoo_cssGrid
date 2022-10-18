@@ -36,7 +36,7 @@ html, body {
   box-shadow: 3px 3px 1px grey;
 }
 
-/* Style your grid here */
+/* Style your grid here: UNCOMMENT THE GRID DISPLAY YOU WANT TO SEE */
 #grid {
   display: grid;
   /* 
